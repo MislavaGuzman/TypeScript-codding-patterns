@@ -22,3 +22,8 @@ npx ts-node Hash_Maps_Sets/pair-sum-unsorted.ts
 # TypeScript Coding Patterns
 
 ![Sudoku board Verification](/assets/SudokuboardVerification.png)
+
+
+![Zero Stripping](/assets/Zero-Stripping.jpg)
+
+
