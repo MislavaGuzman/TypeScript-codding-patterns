@@ -15,6 +15,7 @@ npm install --save-dev typescript@5.4.5 ts-node@10.9.2
 
 ## Exec a ts file
 npx ts-node Hash_Maps_Sets/pair-sum-unsorted.ts
+npx tsx Hash_Maps_Sets/pair-sum-unsorted.ts
 
 ```
 ---
